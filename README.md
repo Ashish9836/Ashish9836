@@ -1,5 +1,5 @@
 
-<div style="text-align:center"><img src="https://github.githubassets.com/images/modules/open_graph/github-octocat.png" width="100" height="50" /></div>
+<div style="text-align:center"><img src="https://github.githubassets.com/images/modules/open_graph/github-octocat.png" width="150" height="100" /></div>
 
 <h1 align="center">Hi 👋, I'm Ashish Kumar</h1>
 <h3 align="center">Passionate Programmer | Full Stack developer | Leetcoder(ashish9242) | MERN stack</h3>
