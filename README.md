@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ashish Kumar</h1>
-<h3 align="center">Passionate Programmer | Full Stack developer | Leetcoder(ashish9242) | MERN stack</h3>
-<div style="display:flex justify-center">
+<div style="display:flex justify:center">
 <img src="https://github.githubassets.com/images/modules/open_graph/github-octocat.png" width="600" height="450" />
 </div>
+<h1 align="center">Hi 👋, I'm Ashish Kumar</h1>
+<h3 align="center">Passionate Programmer | Full Stack developer | Leetcoder(ashish9242) | MERN stack</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish9836&label=Profile%20views&color=0e75b6&style=flat" alt="ashish9836" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashish9836" alt="ashish9836" /></a> </p>
