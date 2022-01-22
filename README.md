@@ -1,6 +1,6 @@
-<div>
-<div style="text-align:center"><img src="https://github.githubassets.com/images/modules/open_graph/github-octocat.png" width="300" height="250" /></div>
-</div>
+
+<div style="text-align:center"><img src="https://github.githubassets.com/images/modules/open_graph/github-octocat.png" width="100" height="50" /></div>
+
 <h1 align="center">Hi 👋, I'm Ashish Kumar</h1>
 <h3 align="center">Passionate Programmer | Full Stack developer | Leetcoder(ashish9242) | MERN stack</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish9836&label=Profile%20views&color=0e75b6&style=flat" alt="ashish9836" /> </p>
