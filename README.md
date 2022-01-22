@@ -1,4 +1,4 @@
-<div style="display:flex;justify:center">
+<div style="display:flex;justify-items:center">
 <img src="https://github.githubassets.com/images/modules/open_graph/github-octocat.png" width="400" height="250" />
 </div>
 <h1 align="center">Hi 👋, I'm Ashish Kumar</h1>
