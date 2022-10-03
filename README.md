@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development, Data structure and algorithms**
 
-- 💬 Ask me about **React JS, JS, Node JS, MongoDB, C++, Angular, Git**
+- 💬 Ask me about **React JS,Nest JS, JS, Node JS, MongoDB, C++, Angular, Git **
 
 - 📫 How to reach me **ashishkhello@gmail.com**
 
